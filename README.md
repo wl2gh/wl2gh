@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/bce398c3-ac9b-47dd-9bca-785bd8779c60" alt="Jiho Lee Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/ce9347de-db24-4dd6-a67a-911d2ef15bf4" alt="Jiho Lee Banner" width="100%" />
 </div>
 
 <h2>
