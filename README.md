@@ -9,7 +9,7 @@
 </h2>
 <div>
   <a href="https://hits.sh/github.com/wl2gh/"><img alt="Hits" src="https://hits.sh/github.com/wl2gh.svg?style=for-the-badge&color=50C878"/></a>&nbsp;
-  <a href="mailto:wl2gh@naver.com"><img alt="Naver Icon" src="https://github.com/user-attachments/assets/6577489a-9461-42ab-9be0-343077e485fa" width="26" height="26" /></a>&nbsp;
+  <a href="mailto:wl2gh@naver.com"><img alt="Naver Icon" src="./img/naver.png" width="26" height="26" /></a>&nbsp;
   <a href="https://discord.gg/thxRHX8f" target="_blank"><img alt="Discord Icon" src="https://github.com/user-attachments/assets/cfb56137-d200-4bd1-8f1b-b7d682a349c1" width="26" height="26"/></a>
 </div>
   <br/>
