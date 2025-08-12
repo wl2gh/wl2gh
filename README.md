@@ -9,8 +9,8 @@
 </h2>
 <div>
   <a href="https://hits.sh/github.com/wl2gh/"><img alt="Hits" src="https://hits.sh/github.com/wl2gh.svg?style=for-the-badge&color=50C878"/></a>&nbsp;
-  <a href="mailto:wl2gh@naver.com"><img alt="Naver Icon" src="https://github.com/wl2gh/wl2gh/raw/main/IMG/naver.png" width="26" height="26" /></a>&nbsp;
-  <a href="https://discord.gg/thxRHX8f" target="_blank"><img alt="Discord Icon" src="https://github.com/wl2gh/wl2gh/raw/main/IMG/discord.png" width="26" height="26"/></a>
+  <a href="mailto:wl2gh@naver.com"><img alt="Naver Icon" src="https://github.com/wl2gh/wl2gh/raw/main/IMG/Naver.png" width="26" height="26" /></a>&nbsp;
+  <a href="https://discord.gg/thxRHX8f" target="_blank"><img alt="Discord Icon" src="https://github.com/wl2gh/wl2gh/raw/main/IMG/Discord.png" width="26" height="26"/></a>
 </div>
   <br/>
   <div>
