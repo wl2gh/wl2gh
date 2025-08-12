@@ -3,14 +3,14 @@
 </div>
 
 <h2>
-  <a href="https://github.com/wl2gh"><img align="right" width="150" height="150" src="./img/Sanemi.png" alt="Profile Image" ></a>
+  <a href="https://github.com/wl2gh"><img align="right" width="150" height="150" src="img/Sanemi.png" alt="Profile Image" ></a>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="22" height="22" alt="Green Heart" />
   <span>Hello, I'm Jiho Lee</span>
 </h2>
 <div>
   <a href="https://hits.sh/github.com/wl2gh/"><img alt="Hits" src="https://hits.sh/github.com/wl2gh.svg?style=for-the-badge&color=50C878"/></a>&nbsp;
-  <a href="mailto:wl2gh@naver.com"><img alt="Naver Icon" src="./img/naver.png" width="26" height="26" /></a>&nbsp;
-  <a href="https://discord.gg/thxRHX8f" target="_blank"><img alt="Discord Icon" src="./img/discord.png" width="26" height="26"/></a>
+  <a href="mailto:wl2gh@naver.com"><img alt="Naver Icon" src="img/naver.png" width="26" height="26" /></a>&nbsp;
+  <a href="https://discord.gg/thxRHX8f" target="_blank"><img alt="Discord Icon" src="img/discord.png" width="26" height="26"/></a>
 </div>
   <br/>
   <div>
