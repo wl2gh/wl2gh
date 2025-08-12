@@ -3,7 +3,7 @@
 </div>
 
 <h2>
-  <a href="https://github.com/wl2gh"><img align="right" width="150" height="150" src="img/Sanemi.png" alt="Profile Image" ></a>
+  <a href="https://github.com/wl2gh"><img align="right" width="150" height="150" src="[img/Sanemi.png]" alt="Profile Image" ></a>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="22" height="22" alt="Green Heart" />
   <span>Hello, I'm Jiho Lee</span>
 </h2>
