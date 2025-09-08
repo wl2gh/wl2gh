@@ -46,5 +46,5 @@
 </h2>
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=wl2gh&show_icons=true&theme=dark" style="margin: 0;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wl2gh&layout=compact&theme=dark" style="margin: 0;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wl2gh&layout=compact&theme=dark&langs_count=10" style="margin: 0;" />
 </div>
